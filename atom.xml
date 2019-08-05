@@ -2,11 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://joezhougit.github.io/</id>
     <title>Generic Study</title>
-    <updated>2019-08-05T02:37:17.407Z</updated>
+    <updated>2019-08-05T06:12:12.140Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://joezhougit.github.io/"/>
     <link rel="self" href="https://joezhougit.github.io//atom.xml"/>
     <logo>https://joezhougit.github.io//images/avatar.png</logo>
     <icon>https://joezhougit.github.io//favicon.ico</icon>
     <rights>All rights reserved 2019, Generic Study</rights>
+    <entry>
+        <title type="html"><![CDATA[MQTT通信协议]]></title>
+        <id>https://joezhougit.github.io//post/mqtt-tong-xin-xie-yi</id>
+        <link href="https://joezhougit.github.io//post/mqtt-tong-xin-xie-yi">
+        </link>
+        <updated>2019-08-05T04:39:24.000Z</updated>
+        <content type="html"><![CDATA[<!--more-->]]></content>
+    </entry>
 </feed>
